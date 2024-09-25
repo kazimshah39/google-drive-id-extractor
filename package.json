@@ -1,0 +1,20 @@
+{
+  "name": "google-drive-id-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazimshah39/google-drive-id-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazimshah39/google-drive-id-extractor/issues"
+  },
+  "homepage": "https://github.com/kazimshah39/google-drive-id-extractor#readme",
+  "description": "This npm package extracts the Google Drive file ID from any provided Google Drive link, making it easy to retrieve the ID programmatically. It's lightweight, simple to use, and supports various Google Drive link formats."
+}
